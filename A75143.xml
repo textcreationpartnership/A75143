@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody almanack; or, Monethly observations and predictions, for the year of our Lord, 1654. Fore-telling I The great and wonderful mutation of times, and change of government, in England, Scotland, and Ireland. II The proclaiming of open wars by the Christian kings and princes, and the setting up of their royal standards. III Their proceedings touching the King of Scots, and the lamentable and unparallel'd engagement that will happen between the two mighty fleets of England and Europe. IV. The event and success of this great and memorable sea fight; and the dying of the curled waves with the bloud of princes and nobles, &amp;c. V The advance of the King of Scots, ...; and the total vanquishing and dispersing their great armado. VI The calling to an account the officers of the nation; and the beheading of divers great ones, ... VII The taking off all oppressions and burdens from the people, ... VIII The taking away and extirpating of the power, rule, and government of the tyrannical Norman sword. IX The sad and woful condition that women with child will be exposed unto, if not prevented, by the ensuing potions here administred. Published for the general good of the Common-wealth of England, by a cordial lover of his native-countrey's rights and liberties; and freely exposed to the view of all cities, towns, and corporations,.</title>
+            <author>Livie, John, fl. 1654-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75143</idno>
+            <idno type="STC">Wing A1921</idno>
+            <idno type="STC">Thomason E221_1</idno>
+            <idno type="STC">ESTC R9045</idno>
+            <idno type="EEBO-CITATION">99873456</idno>
+            <idno type="PROQUEST">99873456</idno>
+            <idno type="VID">125932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 38:E221[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody almanack; or, Monethly observations and predictions, for the year of our Lord, 1654. Fore-telling I The great and wonderful mutation of times, and change of government, in England, Scotland, and Ireland. II The proclaiming of open wars by the Christian kings and princes, and the setting up of their royal standards. III Their proceedings touching the King of Scots, and the lamentable and unparallel'd engagement that will happen between the two mighty fleets of England and Europe. IV. The event and success of this great and memorable sea fight; and the dying of the curled waves with the bloud of princes and nobles, &amp;c. V The advance of the King of Scots, ...; and the total vanquishing and dispersing their great armado. VI The calling to an account the officers of the nation; and the beheading of divers great ones, ... VII The taking off all oppressions and burdens from the people, ... VIII The taking away and extirpating of the power, rule, and government of the tyrannical Norman sword. IX The sad and woful condition that women with child will be exposed unto, if not prevented, by the ensuing potions here administred. Published for the general good of the Common-wealth of England, by a cordial lover of his native-countrey's rights and liberties; and freely exposed to the view of all cities, towns, and corporations,.</title>
+                  <author>Livie, John, fl. 1654-1659.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654. [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Livie.</note>
+                  <note>Annotation on Thomason copy: "Octo. 31. 1653"; the 4 in imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125932:1"/>
+            <pb facs="tcp:125932:1" rendition="simple:additions"/>
+            <p>The Bloody ALMANACK; OR, Monethly Obſervations and Predictions, for the Year of our Lord, 1654.</p>
+            <p>
+               <hi>FORE-TELLING</hi>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <hi>I</hi> The great and wonderful Mutation of Times, and Change of Government, in <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+                  </item>
+                  <item>
+                     <hi>II</hi> The proclaiming of open Wars by the Chriſtian Kings and Princes, and the ſetting up of their Royal Standards.</item>
+                  <item>
+                     <hi>III</hi> Their Proceedings touching the King of Scots, and the lamentable and unparallel'd Engagement that will happen between the two mighty Fleets of England and Europe.</item>
+                  <item>
+                     <hi>IV.</hi> The event and ſucceſs of this great and memorable Sea fight; and the dying of the curled Waves with the bloud of Princes and Nobles, &amp;c.</item>
+                  <item>
+                     <hi>V</hi> The advance of the King of Scots, and divers Engliſh Lords with another gallant Fleet; and the total vanquiſhing and diſperſing their great Arma<g ref="char:EOLhyphen"/>do.</item>
+                  <item>
+                     <hi>VI</hi> The calling to an account the Officers of the Nation; and the beheading of divers great Ones, and Committee-men.</item>
+                  <item>
+                     <hi>VII</hi> The taking off all Oppreſſions and Burdens from the people, and the reſtoring of them to their juſt Laws, Liberties, and Freedoms.</item>
+                  <item>
+                     <hi>VIII</hi> The taking away and extirpating of the Power, Rule, and Govern<g ref="char:EOLhyphen"/>ment of the Tyrannical Norman Sword.</item>
+                  <item>
+                     <hi>IX</hi> The ſad and woful condition that women with child will be expoſed un<g ref="char:EOLhyphen"/>to, if not prevented, by the enſuing Potions here adminiſtred.</item>
+               </list>
+            </p>
+            <p>Publiſhed for the general good of the Common-Wealth of England, by a cordial Lover of his Native-Countrey's Rights and Liberties; and freely expoſed to the view of all Cities, Towns, and Corporations,</p>
+            <p>Imprinted at London for G. HORTON, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125932:2"/>
+            <pb n="1" facs="tcp:125932:2"/>
+            <head>The Bloudy Almanack, &amp;c. Or Monethly Obſervations and Predictions for the Year of our Lord, 1654.</head>
+            <div n="January" type="month">
+               <head>Obſervations on <hi>January.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">D</seg>Eep will the conſultations be this moneth throughout <hi>Europe,</hi> and that about ſuch <hi>matters</hi> as belong not to the Vulgar to know; for he that lives to the middle of the Moneth ſhall ſee all the Princes of <hi>Europe</hi> in a maze, and the <hi>Commonalty</hi> ſit by the fire, and complain to one ano<g ref="char:EOLhyphen"/>ther of their <hi>Oppreſſion. But woe be unto the Inſtruments thereof</hi>—. For,
+<q>
+                     <l>I no aſſiſtance from the ſacred Hill</l>
+                     <l>Can crave; nor can I dip my feather'd quill</l>
+                     <l>In <hi>Helicon;</hi> the water's muddy grown,</l>
+                     <l>And I muſt mourn 'cauſe <hi>Jove</hi> and <hi>Saturn</hi> frown:</l>
+                     <l>Well<g ref="char:punc">▪</g> be content, and if thou haſt no will</l>
+                     <l>To ſing, look on the Times, and weep thy fill.</l>
+                  </q>
+               </p>
+               <p>Expect great Wind and Rain the 7 day. New <hi>moon</hi> 48 min. paſt 3 in the <hi>afternoon</hi> the 8 day. Full <hi>moon</hi> the 22 day at 4 in the <hi>afternoon. Term</hi> begins 23 day.</p>
+            </div>
+            <div n="February" type="month">
+               <head>Obſervations on <hi>Feb.</hi>
+               </head>
+               <p>THis moneth begins pitifully with miſty, foggy, ſtinking, noy<g ref="char:EOLhyphen"/>ſome, cloudy, froſty weather, and turbulent actions are proba<g ref="char:EOLhyphen"/>bly like to enſue ſuch troubleſome Ayr, which may make but bad muſick in the ears of ſome great Ones, who will juſtly be called to an account for their unjuſt ſtewardſhip, in betraying their Truſt, de<g ref="char:EOLhyphen"/>frauding the <hi>Poor,</hi> rejecting the fatherleſs, and deſpiſing the widow: O wicked Satyrs of the Times! that make Religion a cloak for all Villany! look to't, the Time is coming, <hi>that one day you muſt pay for
+<pb n="2" facs="tcp:125932:3"/>
+all;</hi> 'Tis reaſon the Nation ſhould have an account given them of their moneys. And, indeed, the Law being once more called into que<g ref="char:EOLhyphen"/>ſtion, there will a people riſe, and ſay, <hi>They know no reaſon why they ſhould be governed by the Norman Laws, now the Norman Race is taken away by the ſame Inſtrument that brought it in,</hi> viz.</p>
+               <p>The SWORD.</p>
+               <p>Certainly, many <hi>Overtures</hi> will be made about rectifying the <hi>Law, Governors,</hi> and <hi>Government,</hi> towards the end of this moneth, when the Wind deſcends from the higheſt Firmament, and the Rain iſſues forth like ſhowers of bloud. — New <hi>moon</hi> the 7 day, half an hour paſt 6 in the morn. The 12 day <hi>Term</hi> ends. Full <hi>moon</hi> 40 min. paſt 6 in the morning.</p>
+            </div>
+            <div n="March" type="month">
+               <head>Obſervations on <hi>March.</hi>
+               </head>
+               <p>A Mad world my maſters; the moneth begins with a <hi>flattering countenance,</hi> and that's no wonder, 'tis of late found to be the beſt Trade in this Nation; <hi>the more is England's ſorrow.</hi> Yet they which formerly uſed to command the people, will by the people now be commanded; <hi>and reaſon good; 'twas never a good world ſince the ſervant was above the Maſter.</hi> Many great Heads begin to <hi>totter;</hi> and that up<g ref="char:EOLhyphen"/>on crimes no leſs then capital; although they conceived the World would have always ſtood <hi>in ſtatu quo.</hi> If the ſouldier be impetuous, I cannot help it; <hi>they'l do what they lift for all me.</hi> Ill times are coming, and 'tis like to be a ſad year for children; <hi>beware their lives.</hi> The Law is much controverted; any many Lawyers ſuffer; ſo muſt <hi>Committee</hi> men; <hi>A fair riddance.</hi> — The 8 day new <hi>moon</hi> half an hour paſt 6 at night.</p>
+            </div>
+            <div n="April" type="month">
+               <head>Obſervations on <hi>April.</hi>
+               </head>
+               <p>THis moneth begins very ſerenely with the <hi>common people,</hi> but it will ſcarce end ſo with the great Ones. Great winds about the 9 day, and high actions towards the 11. If you would hinder the growing of <hi>Crabs,</hi> the beſt way is to pluck up the Tree by the <hi>Roots.</hi> Such as have ſtood ſtoutly for the liberty of this Nation in oppreſ<g ref="char:EOLhyphen"/>ſing Times, when Will was a Law, are now ſomewhat eſteemed; <hi>better once then never.</hi> Women with child muſt look for hard labours; if not prevented, by abſtaining from Strong-waters, Wine, Ale, and ſuch hot Liquids. Thunder and Lightning, Rain and Hail ends the month;—New <hi>moon</hi> the 7 day 7 min. before 4 in the morn. Ful <hi>moon</hi> the 21 day at 2 in the <hi>afternoon.</hi>
+               </p>
+            </div>
+            <div n="May" type="month">
+               <pb n="3" facs="tcp:125932:3"/>
+               <head>Obſervations on <hi>May.</hi>
+               </head>
+               <p>THis moneth begins with <hi>thundering actions,</hi> and <hi>lamentable times,</hi> which cauſeth great ſadneſs, and little mirth. 'Tis never good to be too ſtiff-necked; <hi>therefore look about ye Clergy-men, your Cake is dough.</hi> A ſtrange Generation appears; and many an honeſt man will probably be brought to the Touch-ſtone: Alas! is it not great pity that cheating and cozening ſhould be turned the two main pillars of the Nation: <hi>'Twas not ſo in the dayes of our fore-fathers, and I hope the wiſdom of the State will ſo decree it, that it ſhall not be permitted in theſe our Times.</hi> An eminent Officer is like to be called in queſtion; Lawyers mourn, Heirs weep for their loſt inheritance; Prieſts mutter and whine; the wind blows; and ſo the month ends. — New <hi>moon</hi> the 6 day, half an hour paſt 11 at <hi>noon.</hi> Full <hi>moon</hi> the 21 day at 6 in the morning.</p>
+            </div>
+            <div n="June" type="month">
+               <head>Obſervations on <hi>June.</hi>
+               </head>
+               <p>WHen mens actions are not juſtifiable by the Rule of Truth, and Law of Reaſon, the laſt ſhift is to flater with the people; and when the Lyons ſkin will not ſerve the turn, to take the Foxes: But when God hath decreed Juſtice ſhall be done, all the ſhifts of man will not avail.</p>
+               <q>
+                  <l>
+                     <hi>Sol</hi> ſmiles on <hi>Saturn,</hi> but on <hi>Jove</hi> doth frown,</l>
+                  <l>Vertue's a Beggar, Vice hath got the Crown;</l>
+                  <l>And how d'ye think ſhe got it? 'Tis no matter</l>
+                  <l>If I tell truth; at firſt ſhe learnt to flatter,</l>
+                  <l>Call'd greatneſs, goodneſs; upon that account</l>
+                  <l>She took her riſe, rides Lady Paramount.</l>
+               </q>
+               <p>Thunder and Rain ends the month. New <hi>moon</hi> the 4 day 3 quart. paſt 7 at night. Full <hi>moon</hi> the 19 day half an hour paſt 8 at night.</p>
+            </div>
+            <div n="July" type="month">
+               <head>Obſervations on <hi>July.</hi>
+               </head>
+               <p>THe Synod of the <hi>Sun</hi> and <hi>Mars</hi> is neer the <hi>little dog-ſtar,</hi> I am a<g ref="char:EOLhyphen"/>fraid he will bite, and that <hi>Holland</hi> will know to their ſorrow; for, by reaſon of their Rebellion againſt the King of <hi>Spain,</hi> the Euro<g ref="char:EOLhyphen"/>pian Princes deſerts their cauſe, &amp; leaves them to the mercy of their conquering enemy. Men give gallant words at the beginning of this month, and promiſe the <hi>Commonalty</hi> much good; <hi>I wiſh we may find it, it hath been too long loſt.</hi>
+               </p>
+               <q>
+                  <l>The Stars are friends, (a joyful ſight to ſee)</l>
+                  <l>And love each other, pray why do not we?</l>
+                  <l>This is the Reaſon, it cannot be deny'd,</l>
+                  <l>They mind Gods heavenly Will, we wealth &amp; pride.</l>
+                  <l>
+                     <pb n="4" facs="tcp:125932:4"/>But this cannot laſt long, would you know why?</l>
+                  <l>All things muſt change, and ſo muſt low and high.</l>
+               </q>
+               <p>New <hi>moon</hi> the 3 day at 4 in the <hi>afternoon.</hi> Full <hi>moon</hi> at a quarter paſt 10 in the <hi>morning.</hi>
+               </p>
+            </div>
+            <div n="August" type="month">
+               <head>Obſervations on <hi>Auguſt.</hi>
+               </head>
+               <p>HOneſt Actions are towards, <hi>is not that a wonder?</hi> And our long-loſt Liberties begin to appear in great ſplendor. Let us therfore weigh diligently the beginning of things, and ſuſpend judgment till we ſee the end. Yet the Princes of <hi>Europe</hi> are all in amaze, and all the World in a wonder what God determines to do. Strange and ſu<g ref="char:EOLhyphen"/>pernatural ſights will be ſeen in the Ayr, and about the middle of the month tempeſtuous weather.— New <hi>moon</hi> the 2 day about 11 at night. Ful <hi>moon</hi> the 17 day at night, viſibly eclipſed, according to the enſuing figure,
+<figure/>
+               </p>
+            </div>
+            <div n="September" type="month">
+               <head>Obſervations on <hi>September.</hi>
+               </head>
+               <p>GReat and ſad Diſaſters are like to befall many eminent Officers, and the influence of the <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars</hi> may in all probability do <hi>England</hi> the greateſt good, that ever was done to it ſince <hi>William</hi> the Baſtard conquered it, <hi>I mean, reſtore it to its deſired Liberty, and take off all Burdens, Oppreſſions, and Taxes, from the wearied ſhoulders of the people.</hi> To which, let all true Engliſh men ſay, Amen, Amen.</p>
+               <p>Full <hi>moon</hi> the 16 day, about 11 in the <hi>morning.</hi> New <hi>moon</hi> the 28 day a quarter paſt 11 at <hi>noon.</hi>
+               </p>
+            </div>
+            <div n="October" type="month">
+               <head>Obſervations on <hi>October.</hi>
+               </head>
+               <p>THe Kings of <hi>France, Denmark,</hi> and <hi>Spain,</hi> agree unanimouſly in oppreſſing the people; but a diſmal time is coming; and great
+<pb n="5" facs="tcp:125932:4"/>
+ſcuffling will there be to maintain <hi>Monarchy;</hi> but the <hi>Communalty</hi> wil not be content with bread and water, ſo long as they know where to get roſt-meat at a cheaper rate. A gallant Ayr attends the Farmer this month, and pleaſant weather to ſow his corn. Full <hi>moon</hi> the 15 day a quarter, paſt 9 at night. New <hi>moon</hi> about 4 in the <hi>morn<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+            </div>
+            <div n="November" type="month">
+               <head>Obſervations on <hi>November.</hi>
+               </head>
+               <p>GReat preparations for war throughout all Chriſtendom, and ex<g ref="char:EOLhyphen"/>traordinary promiſes are made to <hi>Charles</hi> the ſecond; 17 Kings, Princes, and Dukes, ſet up their Banners; but upon the total diſſolu<g ref="char:EOLhyphen"/>tion of the rebellious Dutch they appear no more viſible. The <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> of <hi>Europe</hi> will look with ruful faces; Repentance ſometimes comes too late, O ſtrange fate! Accomptants and Committees muſt be called to account what they have done with the <hi>Treaſure</hi> of the <hi>Nation.</hi> It would melt a heart of ſtone to ſee how pitifully they look through a priſon grate, who have formerly had the world at will, and were ſuch <hi>Sots</hi> to think that this life would laſt alwayes, when day and night teacheth them all things are ſubject to change. There will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppear this year a great Eclipſe of the Sun, but it will happen on the 7. day of <hi>Feb.</hi> according to the enſuing Type.</p>
+               <p>
+                  <figure>
+                     <p>East</p>
+                     <p>North</p>
+                     <p>West</p>
+                     <p>Sowth</p>
+                  </figure>
+               </p>
+            </div>
+            <div n="December" type="month">
+               <head>Obſervations on <hi>Decemb.</hi>
+               </head>
+               <p>BEware your Heads, ye Royal Cedars, the <hi>Scorpions</hi> heart is veno<g ref="char:EOLhyphen"/>mous; ſundry eminent Gentlemen are brought to the bar of ju<g ref="char:EOLhyphen"/>ſtice, and ſoon after made ſhorter by the Head. <hi>A bloudy Tragidy.</hi>— About the beginning of this moneth <hi>Magna Charta,</hi> and the <hi>Petition of Right,</hi> ſeems to be called in queſtion, and that great <hi>Liberty</hi> which ſo many has ſought after in their ſtout contending for the <hi>priviledges</hi> of <hi>Magna Charta,</hi> is found out to be nothing elſe then what this <hi>poor
+<pb n="6" facs="tcp:125932:5"/>
+pitiful Nation,</hi> when it was unluckily vanquiſhed by a <hi>Baſtard,</hi> by fair terms obtained from the hands of a <hi>Conqueror.</hi> This will ſcarce ſuit with <hi>Engliſh mens</hi> brains at this time: It is a real Truth indeed, we have not ſo much liberty, <hi>or to ſpeak more properly,</hi> we are not in <hi>greater bondage</hi> then <hi>Magna Charta</hi> tyed us too. The cauſe of this, ſaith <hi>Nich: Culpepper,</hi> I conceive to be in our <hi>former Parliamenti,</hi> who when They ſhould have been enlarging the <hi>liberty of their ſubject,</hi> ſpent their time in conſultation how far the bounds of a <hi>Forreſt</hi> muſt go, who muſt keep a <hi>Park,</hi> and who muſt not; who muſt keep <hi>Hounds, Greyhounds,</hi> and <hi>Maſtiff dogs,</hi> and who muſt not; what price muſt be paid for ſhouting of <hi>Pigeons, Partridges,</hi> and <hi>Pheſants,</hi> and thus they ſweeped the Liberty of the Nation up and down, as the maid ſwept the <hi>ſur<g ref="char:EOLhyphen"/>reverence</hi> about the houſe, till at laſt ſhe loſt it: But the year ſeems to end in a better poſture, pretty pleaſing to the <hi>Commonalty,</hi> and not without great hopes of our deſired <hi>Liberty.</hi>
+               </p>
+               <p>The <hi>Hollander</hi> grows as imperious as potent, and entertaineth ſun<g ref="char:EOLhyphen"/>dry Engagements from Us; but being beaten to his own doors, at laſt invites to their aſſiſtance the <hi>Dane, Swedes,</hi> and <hi>French;</hi> with <hi>whom</hi> comes aboard the K. of <hi>Scots,</hi> his brother <hi>James,</hi> the Lord <hi>Digby,</hi> Maj. Gen. <hi>Maſſey,</hi> the Lord <hi>Craven,</hi> Sir <hi>Lewis Dives,</hi> and divers other <hi>Engliſh</hi> Gentlemen; who, after a mighty and unparallel'd Engagement, will become wholly ſubdued and vanquiſhed, and thus, ſaith the Lord <hi>Ogleby,</hi> will this Royal Navy be brought to</p>
+            </div>
+            <trailer>An End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
